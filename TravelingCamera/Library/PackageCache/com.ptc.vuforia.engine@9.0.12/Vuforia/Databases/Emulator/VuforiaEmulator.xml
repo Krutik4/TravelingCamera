@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="emulator_ground_plane" size="0.200000 0.200000" />
-  </Tracking>
-</QCARConfig>
+version https://git-lfs.github.com/spec/v1
+oid sha256:80aa93af7e56ab7158d8d976756b942320b387b08aadac46f3e304af16a99013
+size 269

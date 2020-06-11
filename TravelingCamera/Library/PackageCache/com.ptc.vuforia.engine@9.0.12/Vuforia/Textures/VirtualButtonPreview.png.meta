@@ -1,35 +1,3 @@
-fileFormatVersion: 2
-guid: dd8287d41aafb4b4bacd7e0ebf634a0c
-TextureImporter:
-  serializedVersion: 2
-  mipmaps:
-    mipMapMode: 0
-    enableMipMap: 1
-    linearTexture: 0
-    correctGamma: 0
-    fadeOut: 0
-    borderMipMap: 0
-    mipMapFadeDistanceStart: 1
-    mipMapFadeDistanceEnd: 3
-  bumpmap:
-    convertToNormalMap: 0
-    externalNormalMap: 0
-    heightScale: .25
-    normalMapFilter: 0
-  isReadable: 0
-  grayScaleToAlpha: 0
-  generateCubemap: 0
-  seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 1024
-  textureSettings:
-    filterMode: -1
-    aniso: -1
-    mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
-  lightmap: 0
-  compressionQuality: 50
-  textureType: -1
-  buildTargetSettings: []
-  userData: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:95b3f25ac2dbd3d5dc3cea9074278c7f5f426377c5d3d214e1989674af25ef24
+size 710

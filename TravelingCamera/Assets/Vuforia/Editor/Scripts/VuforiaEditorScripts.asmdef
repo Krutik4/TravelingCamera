@@ -1,12 +1,3 @@
-{
-    "name": "VuforiaEditorScripts",
-    "references": [
-        "VuforiaScripts"
-    ],
-    "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a5e64925a4b881c46e5983dc9719922e90220a72642e6a0e31dad5f20d90ec
+size 233

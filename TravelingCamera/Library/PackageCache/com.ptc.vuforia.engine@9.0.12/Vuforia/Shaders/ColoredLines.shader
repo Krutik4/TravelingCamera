@@ -1,22 +1,3 @@
-//===============================================================================
-//Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
-//
-//Confidential and Proprietary - Protected under copyright and other laws.
-//Vuforia is a trademark of PTC Inc., registered in the United States and other
-//countries.
-//===============================================================================
-
-Shader "Custom/ColoredLines" {
-    Properties {
-        _Color ("Main Color", Color) = (1,1,1,1)
-    }
-    
-    SubShader {
-        Pass { 
-            Lighting Off
-            Cull Off
-            Blend SrcAlpha OneMinusSrcAlpha
-            Color [_Color]
-        }
-    } 
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b26f3c0ef5fb913dc72d592a1d76779a8bde209445c9367e2a81166ff0746a
+size 668

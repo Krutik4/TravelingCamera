@@ -1,14 +1,3 @@
-{
-    "excludePlatforms": [], 
-    "includePlatforms": [], 
-    "name": "VuforiaScripts", 
-    "allowUnsafeCode": false, 
-    "versionDefines": [], 
-    "references": [
-        "Unity.ugui"
-    ], 
-    "precompiledReferences": [], 
-    "defineConstraints": [], 
-    "overrideReferences": false, 
-    "autoReferenced": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e09a55cfa58f6328d8c82f7bb5755f7e1077b82d15257bad6ec7ceb975ebf88
+size 324

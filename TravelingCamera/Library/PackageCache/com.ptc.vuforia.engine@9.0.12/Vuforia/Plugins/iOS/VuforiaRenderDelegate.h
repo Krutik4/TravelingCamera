@@ -1,13 +1,3 @@
-/*============================================================================
-Copyright (c) 2017 PTC Inc. All Rights Reserved.
-
-Copyright (c) 2014 Qualcomm Connected Experiences, Inc.
-All Rights Reserved.
-============================================================================*/
- 
-
-#import "PluginBase/RenderPluginDelegate.h"
-
-// Controller to support native rendering callback
-@interface VuforiaRenderDelegate : NSObject<RenderPluginDelegate>
-@end
+version https://git-lfs.github.com/spec/v1
+oid sha256:594c5f5c339ef80874a66b02c94fbcca9424700e0eddff9f6644500c77fe5077
+size 454

@@ -1,11 +1,3 @@
-{
-    "name": "VuforiaScripts",
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:54e15de32d51a4540ccc9e653f1c454ce7d461d35063721b3591bb29ea5fca04
+size 267

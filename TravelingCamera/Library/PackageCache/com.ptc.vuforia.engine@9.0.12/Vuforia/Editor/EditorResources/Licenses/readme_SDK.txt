@@ -1,11 +1,3 @@
-Vuforia Augmented Reality SDK Release Package
-==============================================
-To learn more about Vuforia, go to https://developer.vuforia.com/library/getting-started
-To view the SDK license agreement, go to https://developer.vuforia.com/legal/vuforia-developer-agreement
-To view the release notes, go to https://developer.vuforia.com/library/release-notes
-
-/*============================================================================
-            Copyright (c) 2010-2020 PTC Inc.
-            All Rights Reserved.
-            Confidential and Proprietary - PTC Inc.
-  ============================================================================*/
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d50c6252ad8681ab6e952fd267b79445e39b73ca261cb402e8b540cdb3c948d
+size 663
