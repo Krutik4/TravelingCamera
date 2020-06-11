@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="nehru" size="100.000000 65.000000" />
+    <ImageTarget name="csmt-1" size="100.000000 65.000000" />
+    <ImageTarget name="rajabai" size="100.000000 100.000000" />
+    <ImageTarget name="tajhotel" size="100.000000 56.200001" />
+    <ImageTarget name="asiantic-library" size="100.000000 66.545456" />
+    <ImageTarget name="gateway-of-india-mumbai" size="100.000000 74.946465" />
+    <ImageTarget name="taj1" size="100.000000 66.437500" />
+    <ImageTarget name="taj" size="1.000000 0.666667" />
+    <ImageTarget name="106912" size="5.000000 3.750000" />
+  </Tracking>
+</QCARConfig>
